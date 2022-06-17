@@ -1,4 +1,4 @@
-//2nd SEM C Project
+//2nd SEM C Project - Restaurant Management
 
 #include <stdio.h>
 #include <windows.h>
